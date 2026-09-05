@@ -323,6 +323,18 @@ Open `NovaCart_EDA(5).ipynb` and run the notebook sequentially from the import/d
 
 Open the Power BI report to explore the Executive Dashboard, Product Analysis, and Category Analysis pages and interact with the available filters and slicers.
 
+#### Executive Dashboard
+
+![Executive Dashboard](images/executive-dashboard.png)
+
+#### Product Analysis
+
+![Product Analysis](images/product-analysis.png)
+
+#### Category Analysis
+
+![Category Analysis](images/category-analysis.png)
+
 ## Project Conclusion
 
 NovaCart Sales Analysis demonstrates an end-to-end approach to turning transactional sales data into actionable business insight. The project combines SQL-based data validation and business analysis, Python-based analytical validation and visualization, and Power BI-based interactive reporting to support data-driven decisions around revenue growth, profitability, products, customers, discounts, and market performance.
